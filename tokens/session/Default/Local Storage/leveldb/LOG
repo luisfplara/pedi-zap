@@ -1,0 +1,6 @@
+2023/10/17-22:27:38.997 1488 Reusing MANIFEST C:\Users\luisf\Desktop\PediZap\pedizap-server\tokens\session\Default\Local Storage\leveldb/MANIFEST-000001
+2023/10/17-22:27:38.998 1488 Recovering log #7
+2023/10/17-22:27:38.998 1488 Reusing old log C:\Users\luisf\Desktop\PediZap\pedizap-server\tokens\session\Default\Local Storage\leveldb/000007.log 
+2023/10/17-22:36:40.155 fae8 Level-0 table #11: started
+2023/10/17-22:36:40.162 fae8 Level-0 table #11: 10780 bytes OK
+2023/10/17-22:36:40.165 fae8 Delete type=0 #7
